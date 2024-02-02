@@ -3,7 +3,7 @@
 This Repository includes two Plugins for Logitech Media Server (LMS)
 =
 
-Qobuz.zip  version 20.16.10
+Qobuz.zip  version 30.1.0
 -
 
 This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger.
@@ -14,7 +14,7 @@ Basically, I always follow Michael Herger's improvements and incorporate them in
 So that the versions don't get in each other's way, my version always has a 0 after the first version number.
 If the version of the original plugin is 2.16.10, my version would then be 20.16.10. This means that all improvements from Michael are included until version 2.16.10.
 
-History.zip  version 1.3.1
+History.zip  version 1.4.5
 -
 
 The second plugin creates a playback history that shows a kind of playlist with all the songs you have listened to recently.
