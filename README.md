@@ -3,7 +3,7 @@
 This Repository includes two Plugins for Logitech Media Server (LMS)
 =
 
-Qobuz-30.1.0.zip  version 30.1.0
+Qobuz-30.2.0.zip  version 30.2.0
 -
 
 This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger.
@@ -59,6 +59,8 @@ Here are the changes and enhancements:
     Fortunately, I was able to change this unpleasant behavior together with Craig Drummond in conjunction with material.  
     The plugin now sends information to Material so that Material can remember the user setting grid or list for each logical level (albums, artists, tracks, playlists, menus).  
     I would be interested to know whether it works as smoothly for you as it has so far for me.
+
+13. No limitations for Qobuz playlists count.
 
 
 History-1.4.5.zip  version 1.4.5
