@@ -61,6 +61,8 @@ Here are the changes and enhancements:
     I would be interested to know whether it works as smoothly for you as it has so far for me.
 
 13. No limitations for Qobuz playlists count.
+    
+14. No limitations for albums, artists or tracks playlists count.
 
 
 History-1.4.5.zip  version 1.4.5
