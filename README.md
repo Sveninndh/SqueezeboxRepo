@@ -3,7 +3,7 @@
 This Repository includes two Plugins for Logitech Media Server (LMS)
 =
 
-Qobuz-30.2.0.zip  version 30.2.0
+Qobuz-30.2.5.zip  version 30.2.5
 -
 
 This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger.
