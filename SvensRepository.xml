@@ -3,7 +3,7 @@
 		<title lang="DE">Sven's LMS Stuff</title>
 	</details>
 	<plugins>
-		<plugin name="Qobuz" version="30.5.10" minTarget="7.4" maxTarget="*">
+		<plugin name="Qobuz" version="30.5.4" minTarget="7.4" maxTarget="*">
 			<title lang="EN">Qobuz</title>
 			<title lang="DE">Qobuz</title>
 			<desc lang="EN">Extension to access Qobuz content</desc>
