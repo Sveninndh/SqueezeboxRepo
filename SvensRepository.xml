@@ -13,7 +13,7 @@
 			<email>sveninndh@gmail.com</email>
 			<sha>85510f28e1d1c3051de455b5db6efef532b478e6</sha>
 		</plugin>
-		<plugin name="History" version="1.4.5" minTarget="7.4" maxTarget="8.*">
+		<plugin name="History" version="1.4.5" minTarget="7.4" maxTarget="*">
 			<title lang="EN">History</title>
 			<title lang="DE">Wiedergabeverlauf</title>
 			<desc lang="EN">A playlist including the playback history</desc>
