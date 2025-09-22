@@ -66,6 +66,8 @@ Here are the changes and enhancements:
 
 15. A genre filter for user favorites and a second for albums and playlists, the previous main genre menu is removed
 
+16. A track-menu. You got it if you click on a track item and select the "more..." menu item.
+
 
 History-1.4.5.zip  version 1.4.5
 -
