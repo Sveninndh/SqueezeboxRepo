@@ -3,10 +3,10 @@
 This Repository includes two Plugins for Logitech Media Server (LMS)
 =
 
-Qobuz-30.6.2.zip  version 30.6.2
+Qobuz-30.6.3.zip  version 30.6.3
 -
 
-This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger.
+This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.3.
 
 A large number of extensions, improvements and bug fixes are included, see list below.
 
@@ -68,13 +68,19 @@ Here are the changes and enhancements:
 
 16. A track-menu. You got it if you click on a track item and select the "more..." menu item.
 
+17. New "Albums of the week" album list 
 
-History-1.4.5.zip  version 1.4.5
+
+
+History-1.4.7.zip  version 1.4.7
 -
+2025-10-15 Some optimizations, display radio titles, search for titles or albums in Qobuz if the plugin is installed.
 
 The second plugin creates a playback history that shows a kind of playlist with all the songs you have listened to recently.
 I've always missed something like this and find it quite practical.
-At the same time, the plugin corrects a few problems with the LMS favorites. Here too, just try it out and you will see what has changed. The plugin is independent of other plugins.
+At the same time, the plugin corrects a few problems with the LMS favorites.
+There are both per-player settings and general settings.
+Here too, just try it out and you will see what has changed. The plugin is independent of other plugins.
 
 The address of the repository as it must be entered at LMS Settings - Manage Plugins is as follows:
 

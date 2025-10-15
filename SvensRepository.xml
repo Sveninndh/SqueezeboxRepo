@@ -3,7 +3,7 @@
 		<title lang="DE">Sven's LMS Stuff</title>
 	</details>
 	<plugins>
-		<plugin name="Qobuz" version="30.6.2" minTarget="7.4" maxTarget="*">
+		<plugin name="Qobuz" version="30.6.3" minTarget="7.4" maxTarget="*">
 			<title lang="EN">Qobuz</title>
 			<title lang="DE">Qobuz</title>
 			<desc lang="EN">Extension to access Qobuz content</desc>
@@ -11,9 +11,9 @@
 			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/Qobuz-30.6.2.zip</url>
 			<creator>Sven</creator>
 			<email>sveninndh@gmail.com</email>
-			<sha>19fb7b5c8d7f6ee12c8cbca9e4cf8779787dcf0c</sha>
+			<sha>c47da579b4947802678901bb645fd3852ad627db</sha>
 		</plugin>
-		<plugin name="History" version="1.4.5" minTarget="7.4" maxTarget="*">
+		<plugin name="History" version="1.4.7" minTarget="7.4" maxTarget="*">
 			<title lang="EN">History</title>
 			<title lang="DE">Wiedergabeverlauf</title>
 			<desc lang="EN">A playlist including the playback history</desc>
@@ -21,7 +21,7 @@
 			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/History-1.4.5.zip</url>
 			<creator>SvenInNdh</creator>
 			<email>sveninndh@gmail.com</email>
-			<sha>2073d3d8a4c02f68d0e91a5bfff08e58cb0350b8</sha>
+			<sha>7daea022c9d7db6f97427e21e4d4b5386334c78a</sha>
 		</plugin>
 	</plugins>
 </extensions>
