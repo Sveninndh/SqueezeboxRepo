@@ -8,7 +8,7 @@
 			<title lang="DE">Qobuz</title>
 			<desc lang="EN">Extension to access Qobuz content</desc>
 			<desc lang="DE">Erweiterung, um auf Qobuz Inhalte zuzugreifen</desc>
-			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/Qobuz-30.6.2.zip</url>
+			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/Qobuz-30.6.3.zip</url>
 			<creator>Sven</creator>
 			<email>sveninndh@gmail.com</email>
 			<sha>c47da579b4947802678901bb645fd3852ad627db</sha>
@@ -18,7 +18,7 @@
 			<title lang="DE">Wiedergabeverlauf</title>
 			<desc lang="EN">A playlist including the playback history</desc>
 			<desc lang="DE">Eine Playliste mit dem Wiedergabeverlauf</desc>
-			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/History-1.4.5.zip</url>
+			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/History-1.4.7.zip</url>
 			<creator>SvenInNdh</creator>
 			<email>sveninndh@gmail.com</email>
 			<sha>7daea022c9d7db6f97427e21e4d4b5386334c78a</sha>
