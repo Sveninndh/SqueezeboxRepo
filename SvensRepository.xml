@@ -11,7 +11,7 @@
 			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/Qobuz-30.6.6.zip</url>
 			<creator>Sven</creator>
 			<email>sveninndh@gmail.com</email>
-			<sha>bb09007c3a13c24184e3020e5d005d506ccc1a66</sha>
+			<sha>e6abfa062a0e04a71ca27b343845ae43bd40ae12</sha>
 		</plugin>
 		<plugin name="History" version="1.5.0" minTarget="7.4" maxTarget="*">
 			<title lang="EN">History</title>
@@ -21,7 +21,7 @@
 			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/History-1.5.0.zip</url>
 			<creator>SvenInNdh</creator>
 			<email>sveninndh@gmail.com</email>
-			<sha>e6abfa062a0e04a71ca27b343845ae43bd40ae12</sha>
+			<sha>bb09007c3a13c24184e3020e5d005d506ccc1a66</sha>
 		</plugin>
 	</plugins>
 </extensions>
