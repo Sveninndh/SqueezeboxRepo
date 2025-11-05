@@ -3,10 +3,10 @@
 This Repository includes two Plugins for Logitech Media Server (LMS)
 =
 
-Qobuz-30.6.3.zip  version 30.6.3
+Qobuz-30.6.6.zip  version 30.6.6
 -
 
-This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.3.
+This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.6.
 
 A large number of extensions, improvements and bug fixes are included, see list below.
 
@@ -70,9 +70,43 @@ Here are the changes and enhancements:
 
 17. New "Albums of the week" album list 
 
+18. New "Release radar" album list
+
+19. Remove 'My WeeklyQ' because it's no longer supported by Qobuz, you get always the same playlist since september 2025.
+
+20. New Artist page, you get now the more powerfull informations from the current Qobuz webplayer. 
+
+21. New Label Page and Award Page
+
+22. New Discover Page für Labels
+
+23. New List of all in Qobuz available awards.
 
 
-History-1.4.7.zip  version 1.4.7
+I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
+These include a new artist page, an awards page, a label page, a list for discovering labels, and a list of awards listed in Qobuz.
+For the most part, all the data available in the Qobuz apps can now also be accessed in the Qobuz plugin.
+Features like radio stations and album and track suggestions have also been implemented.
+
+Of course, the capabilities of the Lyrion UI are somewhat limited, but Craig is working hard to improve it.
+
+Just to preempt the inevitable question: What about DailyQ and WeeklyQ?
+Currently, these features aren't available in all Qobuz apps.
+I've only been able to test them on Android so far, and the implementation is rather unusual.
+Essentially, the app stores the tracks played on the device in the phone's memory, and only there.
+DailyQ and WeeklyQ only function when the list contains at least 10 entries.
+This list is then sent to Qobuz the first time the app is used each day, and you receive your personally generated DailyQ back.
+WeeklyQ works essentially the same way, except that the process only occurs on Fridays,
+and the 10 tracks are presumably a cross-section of what you listened to throughout the week.
+In both cases, the phone saves the generated tracklist with 30 tracks.
+If you're thinking that this means a separate DailyQ or WeeklyQ is generated on every phone, you're correct—that's exactly how it works.
+You don't have to like it, but that's how Qobuz has been doing it so far.
+With the now-discontinued MyWeeklyQ, it was different; everything ran on the Qobuz server,
+and you could retrieve the playlist at any time with a simple command. 
+The app didn't have to remember anything, and you got the same result on all clients.
+
+
+History-1.5.0.zip  version 1.5.0
 -
 2025-10-15 Some optimizations, display radio titles, search for titles or albums in Qobuz if the plugin is installed.
 
