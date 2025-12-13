@@ -3,10 +3,10 @@
 This Repository includes two Plugins for Logitech Media Server (LMS)
 =
 
-Qobuz-30.6.6.zip  version 30.6.6
+Qobuz-30.6.6.1zip  version 30.6.6.1
 -
 
-This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.6.
+This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.6.1.
 
 A large number of extensions, improvements and bug fixes are included, see list below.
 
@@ -81,6 +81,8 @@ Here are the changes and enhancements:
 22. New Discover Page für Labels
 
 23. New List of all in Qobuz available awards.
+
+24. The album view is now configurable
 
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
