@@ -3,7 +3,7 @@
 		<title lang="DE">Sven's LMS Stuff</title>
 	</details>
 	<plugins>
-		<plugin name="Qobuz" version="30.6.6.1" minTarget="7.4" maxTarget="*">
+		<plugin name="Qobuz" version="30.6.6.2" minTarget="7.4" maxTarget="*">
 			<title lang="EN">Qobuz</title>
 			<title lang="DE">Qobuz</title>
 			<desc lang="EN">Extension to access Qobuz content</desc>
@@ -11,7 +11,7 @@
 			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/Qobuz-30.6.6.1.zip</url>
 			<creator>Sven</creator>
 			<email>sveninndh@gmail.com</email>
-			<sha>7331845738da8b80c6023f9b2492aad89a468293</sha>
+			<sha>0f8282240687317d627e43fc43f4838e697c940f</sha>
 		</plugin>
 		<plugin name="History" version="1.5.0" minTarget="7.4" maxTarget="*">
 			<title lang="EN">History</title>
