@@ -84,6 +84,8 @@ Here are the changes and enhancements:
 
 24. The album view is now configurable
 
+25. New enhanced search
+
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
 These include a new artist page, an awards page, a label page, a list for discovering labels, and a list of awards listed in Qobuz.
