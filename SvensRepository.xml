@@ -1,27 +1,27 @@
 <extensions>
-	<details>
-		<title lang="DE">Sven's LMS Stuff</title>
-	</details>
-	<plugins>
-		<plugin name="Qobuz" version="30.6.6.6" minTarget="7.4" maxTarget="*">
-			<title lang="EN">Qobuz</title>
-			<title lang="DE">Qobuz</title>
-			<desc lang="EN">Extension to access Qobuz content</desc>
-			<desc lang="DE">Erweiterung, um auf Qobuz Inhalte zuzugreifen</desc>
-			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/Qobuz-30.6.6.6.zip</url>
-			<creator>Sven</creator>
-			<email>sveninndh@gmail.com</email>
-			<sha>83ffbb80500f5e777e8a2de1f42dd1469d90d94d</sha>
-		</plugin>
-		<plugin name="History" version="1.5.0" minTarget="7.4" maxTarget="*">
-			<title lang="EN">History</title>
-			<title lang="DE">Wiedergabeverlauf</title>
-			<desc lang="EN">A playlist including the playback history</desc>
-			<desc lang="DE">Eine Playliste mit dem Wiedergabeverlauf</desc>
-			<url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/History-1.5.0.zip</url>
-			<creator>SvenInNdh</creator>
-			<email>sveninndh@gmail.com</email>
-			<sha>bb09007c3a13c24184e3020e5d005d506ccc1a66</sha>
-		</plugin>
-	</plugins>
+  <details>
+    <title lang="DE">Sven's LMS Stuff</title>
+  </details>
+  <plugins>
+    <plugin name="Qobuz" version="30.6.6.7" minTarget="7.4" maxTarget="*">
+      <title lang="EN">Qobuz</title>
+      <title lang="DE">Qobuz</title>
+      <desc lang="EN">Extension to access Qobuz content</desc>
+      <desc lang="DE">Erweiterung, um auf Qobuz Inhalte zuzugreifen</desc>
+      <url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/Qobuz-30.6.6.7.zip</url>
+      <creator>Sven</creator>
+      <email>sveninndh@gmail.com</email>
+      <sha>1D0522D6DD0FAF4F2673A8F1989BA9A9AFB816F4</sha>
+    </plugin>
+    <plugin name="History" version="1.6.0" minTarget="7.4" maxTarget="*">
+      <title lang="EN">History</title>
+      <title lang="DE">Wiedergabeverlauf</title>
+      <desc lang="EN">A playlist including the playback history</desc>
+      <desc lang="DE">Eine Playliste mit dem Wiedergabeverlauf</desc>
+      <url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/History-1.6.0.zip</url>
+      <creator>SvenInNdh</creator>
+      <email>sveninndh@gmail.com</email>
+      <sha>E6BA2D9EE30B27F1C29CF864B5EED79813283AE5</sha>
+    </plugin>
+  </plugins>
 </extensions>

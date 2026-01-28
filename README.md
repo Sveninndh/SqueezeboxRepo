@@ -3,10 +3,10 @@
 This Repository includes two Plugins for Logitech Media Server (LMS)
 =
 
-Qobuz-30.6.6.6.zip  version 30.6.6.6
+Qobuz-30.6.6.7.zip  version 30.6.6.7
 -
 
-This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.6.6.
+This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.6.7.
 
 A large number of extensions, improvements and bug fixes are included, see list below.
 
@@ -80,11 +80,17 @@ Here are the changes and enhancements:
 
 22. New Discover Page für Labels
 
-23. New List of all in Qobuz available awards.
+23. New List of all in Qobuz available awards
 
 24. The album view is now configurable
 
-25. New enhanced search
+25. New enhanced search - a complete redesign using the new design element 'header' supported in material.
+
+26. New artist page - a complete redesign using the new design element 'header' supported in material.
+
+27. New label page - a complete redesign using the new design element 'header' supported in material.
+
+28. New award page - a complete redesign using the new design element 'header' supported in material.
 
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
@@ -110,9 +116,10 @@ and you could retrieve the playlist at any time with a simple command.
 The app didn't have to remember anything, and you got the same result on all clients.
 
 
-History-1.5.0.zip  version 1.5.0
+History-1.6.0.zip  version 1.6.0
 -
 2025-10-15 Some optimizations, display radio titles, search for titles or albums in Qobuz if the plugin is installed.
+2026-01-12 Support for HomeExtras, the playback history can also be displayed in Material as a scrollable list.
 
 The second plugin creates a playback history that shows a kind of playlist with all the songs you have listened to recently.
 I've always missed something like this and find it quite practical.
