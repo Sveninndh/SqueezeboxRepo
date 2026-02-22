@@ -3,10 +3,10 @@
 This Repository includes two Plugins for Lyrion Media Server (LMS)
 =
 
-Qobuz-30.6.7.zip  version 30.6.7
+Qobuz-30.6.7.3.zip  version 30.6.7.3
 -
 
-This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.7.
+This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.7.3.
 
 A large number of extensions, improvements and bug fixes are included, see list below.
 
@@ -92,6 +92,13 @@ Here are the changes and enhancements:
 
 28. New award page - a complete redesign using the new design element 'header' supported in material.
 
+29. New playlists DailyQ and WeeklyQ, works only with History Plugin.
+    This only works in conjunction with my History plugin, because these functions require information about the tracks you have listened to.  
+
+30. Enhanced support for Lyrion users in combination with History plugin and Material Plugin
+
+31. New discover page
+
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
 These include a new artist page, an awards page, a label page, a list for discovering labels, and a list of awards listed in Qobuz.
@@ -116,12 +123,16 @@ and you could retrieve the playlist at any time with a simple command.
 The app didn't have to remember anything, and you got the same result on all clients.
 
 
-History-1.6.0.zip  version 1.6.0
+History-1.6.2.zip  version 1.6.2
 -
 2025-10-15 Some optimizations, display radio titles, search for titles or albums in Qobuz if the plugin is installed.
 2026-01-12 Support for HomeExtras, the playback history can also be displayed in Material as a scrollable list.
+2026-01-26 History is now required to enable Qobuz DailyQ and WeeklyQ in Sven's version of the Qobuz plugin.
+2026-01-28 Support for Lyrion users (‘lmsuser’), in conjunction with Material and Qobuz Plugin Sven's version.
+           It only works with a version of Material that supports Lyrion users.
+           A pull request has been sent to Craig, but whether it will be merged is not my decision.
 
-The second plugin creates a playback history that shows a kind of playlist with all the songs you have listened to recently.
+This plugin creates a playback history that shows a kind of playlist with all the songs you have listened to recently.
 I've always missed something like this and find it quite practical.
 At the same time, the plugin corrects a few problems with the LMS favorites.
 There are both per-player settings and general settings.
