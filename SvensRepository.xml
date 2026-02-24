@@ -3,15 +3,15 @@
     <title lang="DE">Sven's LMS Stuff</title>
   </details>
   <plugins>
-    <plugin name="Qobuz" version="30.6.7.3" minTarget="7.4" maxTarget="*">
+    <plugin name="Qobuz" version="30.6.7.4" minTarget="7.9" maxTarget="*">
       <title lang="EN">Qobuz</title>
       <title lang="DE">Qobuz</title>
       <desc lang="EN">Extension to access Qobuz content</desc>
       <desc lang="DE">Erweiterung, um auf Qobuz Inhalte zuzugreifen</desc>
-      <url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/Qobuz-30.6.7.3.zip</url>
+      <url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/Qobuz-30.6.7.4.zip</url>
       <creator>Sven</creator>
       <email>sveninndh@gmail.com</email>
-      <sha>C7EAA3FFDAD12D31021001DD9C679F47A80D77B2</sha>
+      <sha>42598DE314343FBF7D039F5C9FD4BACAF8653D8C</sha>
     </plugin>
     <plugin name="History" version="1.6.2" minTarget="7.4" maxTarget="*">
       <title lang="EN">History</title>
@@ -22,6 +22,16 @@
       <creator>SvenInNdh</creator>
       <email>sveninndh@gmail.com</email>
       <sha>B6F06BBA53557A0371CC8B5220EFA88EC1E1A2D0</sha>
+    </plugin>
+    <plugin name="MaterialSkin" version="60.2.1" minTarget="7.9" maxTarget="*">
+      <title lang="EN">MaterialSkin</title>
+      <title lang="DE">MaterialSkin</title>
+      <desc lang="EN">A Lyrion skin by Craig Drummond with userId support by SvenInNdh</desc>
+      <desc lang="DE">Eine Lyrion Web-Oberfläche von Craig Drummond mit userId support von SvenInNdh</desc>
+      <url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/MaterialSkin-60.2.1.zip</url>
+      <creator>SvenInNdh</creator>
+      <email>sveninndh@gmail.com</email>
+      <sha>221237818226C7C8EC621726F42F14A787C0A991</sha>
     </plugin>
   </plugins>
 </extensions>

@@ -1,9 +1,14 @@
 # SqueezeboxRepo
 
-This Repository includes two Plugins for Lyrion Media Server (LMS)
+This Repository includes three Plugins for Lyrion Media Server (LMS)
+
+The address of the repository as it must be entered at "Lyrion Settings - Manage Plugins" is as follows:
+
+https://github.com/Sveninndh/SqueezeboxRepo/raw/main/SvensRepository.xml
+
 =
 
-Qobuz-30.6.7.3.zip  version 30.6.7.3
+Qobuz-30.6.7.3.zip  version 30.6.7.4
 -
 
 This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.7.3.
@@ -95,9 +100,14 @@ Here are the changes and enhancements:
 29. New playlists DailyQ and WeeklyQ, works only with History Plugin.
     This only works in conjunction with my History plugin, because these functions require information about the tracks you have listened to.  
 
-30. Enhanced support for Lyrion users in combination with History plugin and Material Plugin
+30. Enhanced support for Lyrion users in combination with History plugin and Material Plugin.
+    It only works with a version of Material that supports Lyrion users.
+    A pull request has been sent to Craig, but whether it will be merged is not my decision.
+    This is only useful for users who have multiple Qobuz accounts (Qobuz Duo or Qobuz Family).
 
 31. New discover page
+
+32. Optimized artist page
 
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
@@ -131,6 +141,7 @@ History-1.6.2.zip  version 1.6.2
 2026-01-28 Support for Lyrion users (‘lmsuser’), in conjunction with Material and Qobuz Plugin Sven's version.
            It only works with a version of Material that supports Lyrion users.
            A pull request has been sent to Craig, but whether it will be merged is not my decision.
+           This is only useful for users who have multiple Qobuz accounts (Qobuz Duo or Qobuz Family).
 
 This plugin creates a playback history that shows a kind of playlist with all the songs you have listened to recently.
 I've always missed something like this and find it quite practical.
@@ -138,6 +149,9 @@ At the same time, the plugin corrects a few problems with the LMS favorites.
 There are both per-player settings and general settings.
 Here too, just try it out and you will see what has changed. The plugin is independent of other plugins.
 
-The address of the repository as it must be entered at LMS Settings - Manage Plugins is as follows:
 
-https://github.com/Sveninndh/SqueezeboxRepo/raw/main/SvensRepository.xml
+MaterialSkin-60.2.1.zip  version 60.2.1
+-
+Material Skin by Craig Drummond 
+Version 6.2.1
+Enhanced with userId support by Sveninndh
