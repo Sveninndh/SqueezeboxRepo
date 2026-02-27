@@ -23,15 +23,5 @@
       <email>sveninndh@gmail.com</email>
       <sha>B6F06BBA53557A0371CC8B5220EFA88EC1E1A2D0</sha>
     </plugin>
-    <plugin name="MaterialSkin" version="60.2.1" minTarget="7.9" maxTarget="*">
-      <title lang="EN">MaterialSkin</title>
-      <title lang="DE">MaterialSkin</title>
-      <desc lang="EN">A Lyrion skin by Craig Drummond with userId support by SvenInNdh</desc>
-      <desc lang="DE">Eine Lyrion Web-Oberfläche von Craig Drummond mit userId support von SvenInNdh</desc>
-      <url>https://github.com/Sveninndh/SqueezeboxRepo/raw/main/MaterialSkin-60.2.1.zip</url>
-      <creator>SvenInNdh</creator>
-      <email>sveninndh@gmail.com</email>
-      <sha>221237818226C7C8EC621726F42F14A787C0A991</sha>
-    </plugin>
   </plugins>
 </extensions>

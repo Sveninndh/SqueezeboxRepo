@@ -148,10 +148,3 @@ I've always missed something like this and find it quite practical.
 At the same time, the plugin corrects a few problems with the LMS favorites.
 There are both per-player settings and general settings.
 Here too, just try it out and you will see what has changed. The plugin is independent of other plugins.
-
-
-MaterialSkin-60.2.1.zip  version 60.2.1
--
-Material Skin by Craig Drummond 
-Version 6.2.1
-Enhanced with userId support by Sveninndh
