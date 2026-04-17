@@ -12,6 +12,7 @@
       <creator>SvenInNdh</creator>
       <email>sveninndh@gmail.com</email>
       <sha>FED3DBBF7826593EC51C74A5FF9F127323F152A0</sha>
+      <link>https://github.com/LMS-Community/plugin-Qobuz"</link>
     </plugin>
     <plugin name="History" version="1.6.2" minTarget="7.4" maxTarget="*">
       <title lang="EN">History</title>
