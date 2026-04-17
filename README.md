@@ -8,10 +8,10 @@ https://github.com/Sveninndh/SqueezeboxRepo/raw/main/SvensRepository.xml
 
 =
 
-Qobuz-30.6.7.3.zip  version 30.6.7.4
+Qobuz-30.6.7.6.zip  version 30.6.7.6
 -
 
-This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.7.3.
+This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.7.
 
 A large number of extensions, improvements and bug fixes are included, see list below.
 
@@ -148,10 +148,3 @@ I've always missed something like this and find it quite practical.
 At the same time, the plugin corrects a few problems with the LMS favorites.
 There are both per-player settings and general settings.
 Here too, just try it out and you will see what has changed. The plugin is independent of other plugins.
-
-
-MaterialSkin-60.2.1.zip  version 60.2.1
--
-Material Skin by Craig Drummond 
-Version 6.2.1
-Enhanced with userId support by Sveninndh
