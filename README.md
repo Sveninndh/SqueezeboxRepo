@@ -8,7 +8,7 @@ https://github.com/Sveninndh/SqueezeboxRepo/raw/main/SvensRepository.xml
 
 =
 
-Qobuz-30.6.7.5.zip  version 30.6.7.5
+Qobuz-30.6.7.6.zip  version 30.6.7.6
 -
 
 This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.7.
