@@ -8,10 +8,10 @@ https://github.com/Sveninndh/SqueezeboxRepo/raw/main/SvensRepository.xml
 
 =
 
-Qobuz-30.6.7.6.zip  version 30.6.7.6
+Qobuz-30.6.9.zip  version 30.6.9
 -
 
-This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.7.
+This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.8.
 
 A large number of extensions, improvements and bug fixes are included, see list below.
 
@@ -109,6 +109,13 @@ Here are the changes and enhancements:
 
 32. Optimized artist page
 
+33. Support for paging to reduce data traffic between the client and the streaming service - Use Material v6.4.0 or higher.
+  
+34. Optimized handling for Qobuz favorites setting.
+
+35. New Design off Qobuz home menu
+
+36. For each track you can use the 'more' item in the contextmenu to show the TrackInfoMenu. 
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
 These include a new artist page, an awards page, a label page, a list for discovering labels, and a list of awards listed in Qobuz.
@@ -133,7 +140,7 @@ and you could retrieve the playlist at any time with a simple command.
 The app didn't have to remember anything, and you got the same result on all clients.
 
 
-History-1.6.2.zip  version 1.6.2
+History-2.0.0.zip  version 2.0.0
 -
 2025-10-15 Some optimizations, display radio titles, search for titles or albums in Qobuz if the plugin is installed.
 2026-01-12 Support for HomeExtras, the playback history can also be displayed in Material as a scrollable list.
@@ -142,6 +149,7 @@ History-1.6.2.zip  version 1.6.2
            It only works with a version of Material that supports Lyrion users.
            A pull request has been sent to Craig, but whether it will be merged is not my decision.
            This is only useful for users who have multiple Qobuz accounts (Qobuz Duo or Qobuz Family).
+2026-05-15 For each track/song you can use the 'more' item in the contextmenu to show the TrackInfoMenu. 
 
 This plugin creates a playback history that shows a kind of playlist with all the songs you have listened to recently.
 I've always missed something like this and find it quite practical.
