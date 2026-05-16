@@ -117,6 +117,9 @@ Here are the changes and enhancements:
 
 36. For each track you can use the 'more' item in the contextmenu to show the TrackInfoMenu. 
 
+37. Artist pictures are now also displayed in a round shape.
+
+
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
 These include a new artist page, an awards page, a label page, a list for discovering labels, and a list of awards listed in Qobuz.
 For the most part, all the data available in the Qobuz apps can now also be accessed in the Qobuz plugin.
