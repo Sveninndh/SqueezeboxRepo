@@ -8,10 +8,10 @@ https://github.com/Sveninndh/SqueezeboxRepo/raw/main/SvensRepository.xml
 
 =
 
-Qobuz-30.6.9.zip  version 30.6.9
+Qobuz-30.6.9.2.zip  version 30.6.9.2
 -
 
-This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.8.
+This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.6.9.
 
 A large number of extensions, improvements and bug fixes are included, see list below.
 
@@ -118,6 +118,8 @@ Here are the changes and enhancements:
 36. For each track you can use the 'more' item in the contextmenu to show the TrackInfoMenu. 
 
 37. Artist pictures are now also displayed in a round shape.
+
+39. New favorites labels and awards
 
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
