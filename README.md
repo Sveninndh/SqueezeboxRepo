@@ -8,7 +8,7 @@ https://github.com/Sveninndh/SqueezeboxRepo/raw/main/SvensRepository.xml
 
 =
 
-Qobuz-30.7.1.zip  version 30.7.1
+Qobuz-30.7.2.zip  version 30.7.2
 -
 
 This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.7.0.
@@ -121,6 +121,8 @@ Here are the changes and enhancements:
 
 39. New favorites labels and awards
 
+40. Improved subscribing/unsubscribing from playlist subscriptions.
+
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
 These include a new artist page, an awards page, a label page, a list for discovering labels, and a list of awards listed in Qobuz.
@@ -145,7 +147,7 @@ and you could retrieve the playlist at any time with a simple command.
 The app didn't have to remember anything, and you got the same result on all clients.
 
 
-History-2.0.0.zip  version 2.0.1
+History-2.0.2.zip  version 2.0.2
 -
 2025-10-15 Some optimizations, display radio titles, search for titles or albums in Qobuz if the plugin is installed.
 2026-01-12 Support for HomeExtras, the playback history can also be displayed in Material as a scrollable list.
@@ -155,6 +157,7 @@ History-2.0.0.zip  version 2.0.1
            A pull request has been sent to Craig, but whether it will be merged is not my decision.
            This is only useful for users who have multiple Qobuz accounts (Qobuz Duo or Qobuz Family).
 2026-05-15 For each track/song you can use the 'more' item in the contextmenu to show the TrackInfoMenu. 
+2026-06-05 Improvement of radio stream processing
 
 This plugin creates a playback history that shows a kind of playlist with all the songs you have listened to recently.
 I've always missed something like this and find it quite practical.
