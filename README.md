@@ -8,7 +8,7 @@ https://github.com/Sveninndh/SqueezeboxRepo/raw/main/SvensRepository.xml
 
 =
 
-Qobuz-30.7.3.2.zip  version 30.7.3.2
+Qobuz-30.7.3.3.zip  version 30.7.3.3
 -
 
 This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.7.0.
@@ -123,7 +123,7 @@ Here are the changes and enhancements:
 
 40. Improved subscribing/unsubscribing from playlist subscriptions.
 
-41. Improved images for Default-Skin and Squeezeplay.
+41. Improved images for Default-Skin and Squeezeplay/Squeezbox Touch.
 
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
@@ -149,7 +149,7 @@ and you could retrieve the playlist at any time with a simple command.
 The app didn't have to remember anything, and you got the same result on all clients.
 
 
-History-2.0.2.zip  version 2.0.2
+History-2.0.3.zip  version 2.0.3
 -
 2025-10-15 Some optimizations, display radio titles, search for titles or albums in Qobuz if the plugin is installed.
 2026-01-12 Support for HomeExtras, the playback history can also be displayed in Material as a scrollable list.
