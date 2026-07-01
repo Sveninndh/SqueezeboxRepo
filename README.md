@@ -8,7 +8,7 @@ https://github.com/Sveninndh/SqueezeboxRepo/raw/main/SvensRepository.xml
 
 =
 
-Qobuz-30.7.3.3.zip  version 30.7.3.3
+Qobuz-30.7.3.4.zip  version 30.7.3.4
 -
 
 This is my enhanced personal version of the Qobuz Plugin from Pierre Beck and Michael Herger v3.7.0.
@@ -124,6 +124,8 @@ Here are the changes and enhancements:
 40. Improved subscribing/unsubscribing from playlist subscriptions.
 
 41. Improved images for Default-Skin and Squeezeplay/Squeezbox Touch.
+
+42. Added Top-Results for search.
 
 
 I've implemented numerous new features, as seen in the Qobuz apps and web player, and transferred them to the Qobuz plugin.
